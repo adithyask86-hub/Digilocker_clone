@@ -12,7 +12,7 @@ const DigiLockerApp = () => {
 
   // Simulated user data
   const [users] = useState([
-    { id: 1, email: 'user@example.com', password: 'password123', name: 'John Doe' },
+    { id: 1, email: 'user@example.com', password: 'password123', name: 'Adithya Sajeev Kumar' },
     { id: 2, email: 'admin@example.com', password: 'admin123', name: 'Admin User' }
   ]);
 
